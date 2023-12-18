@@ -11,6 +11,7 @@ Data Scientist, Supply Chain Ops
 🛠️ Technical Toolbox: 
 
 Econometric Models: From Difference in Differences to Vector Autoregressions, my toolkit is packed with advanced methodologies like RCT, Panel Data Regression, Time Series, and more. 
+
 Data Mining Expertise: Skilled in techniques like KNN, CART, Random Forest, and various clustering methods, I leverage data to create insights and drive decisions. 
 
 🌟 Beyond the Screen: When I'm not analyzing data, I'm deeply involved in mentoring youth and volunteering at children's centers. Volleyball keeps me active, and poetry offers a reflective escape. 
