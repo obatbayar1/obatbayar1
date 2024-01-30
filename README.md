@@ -1,10 +1,10 @@
 Hi 👋 My name is Oyundari!
 ==========================
 
-Data Scientist, Supply Chain Ops
+Everything Data related
 --------------------------------
 
-🎓 Educational Journey: I'm a proud UC Berkeley alum with a Bachelor's degree in Economics, where I honed my skills in economic theory and econometrics. Currently, I'm pursuing a Master's degree at McGill University, focusing on supply chain optimization and machine learning – blending the realms of economics with cutting-edge tech. 
+🎓 Educational Journey: I'm a proud UC Berkeley alum with a Bachelor's degree in Econometrics and Quantitative Economics. Currently, I'm pursuing a Master's degree at McGill University, focusing on enterprise database management and machine learning.
 
 🌐 Professional Path: My career has taken me through organizations like the Swiss Agency for Development and Cooperation, KPMG, and TechSoup Global. In these roles, I've embraced data analytics and leadership, transforming complex theories into actionable, innovative strategies. 
 
