@@ -4,7 +4,7 @@ Hi 👋 My name is Oyundari!
 Everything Data related
 --------------------------------
 
-🎓 Educational Journey: I'm a proud UC Berkeley alum with a Bachelor's degree in Econometrics and Quantitative Economics. Currently, I'm pursuing a Master's degree at McGill University, focusing on enterprise database management and machine learning.
+🎓 Educational Journey: I'm a proud UC Berkeley alum with a Bachelor's degree in Econometrics and Quantitative Economics. Currently, I'm pursuing a Master's degree at McGill University, focusing on enterprise data management and machine learning.
 
 🌐 Professional Path: My career has taken me through organizations like the Swiss Agency for Development and Cooperation, KPMG, and TechSoup Global. In these roles, I've embraced data analytics and leadership, transforming complex theories into actionable, innovative strategies. 
 
