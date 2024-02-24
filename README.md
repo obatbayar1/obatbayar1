@@ -1,7 +1,5 @@
 Hi 👋 My name is Oyundari!
 ==========================
-
-Everything Data related
 --------------------------------
 
 🎓 Educational Journey: I'm a proud UC Berkeley alum with a Bachelor's degree in Econometrics and Quantitative Economics. Currently, I'm pursuing a Master's degree at McGill University, focusing on enterprise data management and machine learning.
