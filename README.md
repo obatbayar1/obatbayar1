@@ -6,15 +6,8 @@ Hi 👋 My name is Oyundari!
 
 🌐 Professional Path: My career has taken me through organizations like the Swiss Agency for Development and Cooperation, KPMG, and TechSoup Global. In these roles, I've embraced data analytics and leadership, transforming complex theories into actionable, innovative strategies. 
 
-🛠️ Technical Toolbox: 
-
-Econometric Models: From Difference in Differences to Vector Autoregressions, my toolkit is packed with advanced methodologies like RCT, Panel Data Regression, Time Series, and more. 
-
-Data Mining Expertise: Skilled in techniques like KNN, CART, Random Forest, and various clustering methods, I leverage data to create insights and drive decisions. 
-
+🛠️ Technical Toolbox: Skilled in advanced econometrics models and data science algorithms.
 🌟 Beyond the Screen: When I'm not analyzing data, I'm deeply involved in mentoring youth and volunteering at children's centers. Volleyball keeps me active, and poetry offers a reflective escape. 
-
-🔗 Let's Connect! If you're interested in collaborating or just want to chat about data, economics, or anything in between, feel free to reach out. I'm available through LinkedIn or email for inquiries or discussions.
 
 * 🌍  I'm based in Montréal
 * ✉️  You can contact me at [oyundari.ba@gmail.com](mailto:oyundari.ba@gmail.com)
