@@ -7,6 +7,7 @@ Hi 👋 My name is Oyundari!
 🌐 Professional Path: My career has taken me through organizations like the Swiss Agency for Development and Cooperation, KPMG, and TechSoup Global. In these roles, I've embraced data analytics and leadership, transforming complex theories into actionable, innovative strategies. 
 
 🛠️ Technical Toolbox: Skilled in advanced econometrics models and data science algorithms.
+
 🌟 Beyond the Screen: When I'm not analyzing data, I'm deeply involved in mentoring youth and volunteering at children's centers. Volleyball keeps me active, and poetry offers a reflective escape. 
 
 * 🌍  I'm based in Montréal
